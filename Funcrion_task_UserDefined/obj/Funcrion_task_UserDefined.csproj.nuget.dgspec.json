@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hebatallah.ss\\CSharp_Tasks\\Function_task\\Funcrion_task_UserDefined\\Funcrion_task_UserDefined.csproj": {}
+    "C:\\Users\\Hebatallah.ss\\CSharp_Tasks\\Funcrion_task_UserDefined\\Funcrion_task_UserDefined.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hebatallah.ss\\CSharp_Tasks\\Function_task\\Funcrion_task_UserDefined\\Funcrion_task_UserDefined.csproj": {
+    "C:\\Users\\Hebatallah.ss\\CSharp_Tasks\\Funcrion_task_UserDefined\\Funcrion_task_UserDefined.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hebatallah.ss\\CSharp_Tasks\\Function_task\\Funcrion_task_UserDefined\\Funcrion_task_UserDefined.csproj",
+        "projectUniqueName": "C:\\Users\\Hebatallah.ss\\CSharp_Tasks\\Funcrion_task_UserDefined\\Funcrion_task_UserDefined.csproj",
         "projectName": "Funcrion_task_UserDefined",
-        "projectPath": "C:\\Users\\Hebatallah.ss\\CSharp_Tasks\\Function_task\\Funcrion_task_UserDefined\\Funcrion_task_UserDefined.csproj",
+        "projectPath": "C:\\Users\\Hebatallah.ss\\CSharp_Tasks\\Funcrion_task_UserDefined\\Funcrion_task_UserDefined.csproj",
         "packagesPath": "C:\\Users\\Hebatallah.ss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hebatallah.ss\\CSharp_Tasks\\Function_task\\Funcrion_task_UserDefined\\obj\\",
+        "outputPath": "C:\\Users\\Hebatallah.ss\\CSharp_Tasks\\Funcrion_task_UserDefined\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

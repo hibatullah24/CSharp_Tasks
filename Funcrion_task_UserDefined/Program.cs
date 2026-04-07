@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            char[] charArray = { 'H', 'e', 'l', 'l', 'o' };
         }
     }
 }

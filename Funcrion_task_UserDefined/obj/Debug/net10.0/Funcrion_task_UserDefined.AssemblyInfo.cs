@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Funcrion_task_UserDefined")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f497e5015c7291bf8aaa63f2733b8735144ecb1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b8374d4736e48b0c168c0dbaed54fafc078d53a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Funcrion_task_UserDefined")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Funcrion_task_UserDefined")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
