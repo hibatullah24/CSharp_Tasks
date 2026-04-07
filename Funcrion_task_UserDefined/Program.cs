@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             char[] charArray = { 'H', 'e', 'l', 'l', 'o' };
+            char[] charArray2 = { 'W', 'o', 'r', 'l', 'd' };
         }
     }
 }
